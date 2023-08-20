@@ -1,0 +1,35 @@
+body{
+	
+	font-family: 'Bricolage Grotesque', sans-serif;
+	font-family: 'Mukta', sans-serif;
+}
+
+
+#home{
+
+	background: #ffc107;
+	color: white;
+}
+
+.caixa{
+
+	padding: 60px 0px;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a{
+
+	margin: 0px 15px;
+	color: black;
+}
+
+footer p a:hover{
+
+	text-decoration: none;
+	border-bottom: 2px solid yellow;
+}
+
+header div ul li a:hover{
+
+	border-bottom: 1px solid black;
+}
